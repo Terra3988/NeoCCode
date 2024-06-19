@@ -2,9 +2,9 @@
 Create your own game without knowledge programming languages. Logic blocks only
 
 # Setup
-* Download the zip archive from [github](https://github.com/Leonid-Ganin/CCode-Lite)
-* Unpack and open [main.lua](https://github.com/Leonid-Ganin/CCode-Lite/blob/main/main.lua) in [Solar2d](https://solar2d.com/)
-* Wait until [Solar2d](https://solar2d.com/) loads the plugins from [build.settings](https://github.com/Leonid-Ganin/CCode-Lite/blob/main/build.settings#L28C1-L44)
+* Download the zip archive from [github](https://github.com/Terra3988/NeoCCode)
+* Unpack and open [main.lua](https://github.com/Terra3988/NeoCCode/blob/main/main.lua) in [Solar2d](https://solar2d.com/)
+* Wait until [Solar2d](https://solar2d.com/) loads the plugins from [build.settings](https://github.com/Terra3988/NeoCCode/blob/main/build.settings#L28C1-L44)
 * That's it, now you can use it!
 
 # Gotchas
