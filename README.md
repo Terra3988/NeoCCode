@@ -1,4 +1,4 @@
-# CCode-Lite
+# NeoCCode
 Create your own game without knowledge programming languages. Logic blocks only
 
 # Setup
@@ -24,3 +24,10 @@ Create your own game without knowledge programming languages. Logic blocks only
 * Network/ - These are modules for local multiplayer
 * Sprites/ - All the sprites of the application are stored here
 * Strings/ - This is the folder of all available translations
+
+# Features
+- [ ] Rewrite Ganin plugin
+
+# Modding features
+- [ ] BlockCategory registration
+- [ ] Block registration
