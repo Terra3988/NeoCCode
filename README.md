@@ -26,8 +26,8 @@ Create your own game without knowledge programming languages. Logic blocks only
 * Strings/ - This is the folder of all available translations
 
 # Features
-- [ ] Rewrite Ganin plugin
+- [ ] Rewrite Ganin plugin (В прогрессе 2/27)
 
-# Modding features
+# Modding features (Отложенно)
 - [ ] BlockCategory registration
 - [ ] Block registration
